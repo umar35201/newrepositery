@@ -1,0 +1,186 @@
+@media screen and (max-width: 1024px){
+	.english-dropdown{
+		margin-left: -25px;
+	}
+	.USD-dropdown{
+		margin-left: -15px;
+	}
+	.numb p{
+		font-size: 15px;
+		padding-top: 5px;
+	}
+	.p-abslute{
+		top: 135%;
+	}
+	.left-img-sec{
+		margin-left: 0;
+	}
+	.right-side{
+		width: 70%;
+	}
+}
+@media screen and (max-width: 768px){
+	.USD-dropdown{
+		margin-left: -22px;
+	}
+	.wishlist a{
+		margin-left: 10px;
+	}
+	.checkout{
+		display: none;
+	}
+	.login{
+		border-right: none;
+	}
+	.left-img-sec{
+		margin-left: 0;
+	}
+	.shiping-content p{
+		font-size: 15px;
+	}
+	.shiping-content h4{
+		font-size: 15px;
+	}
+	.aa-footer-social{
+		display: flex;
+	}
+	#aa-product-category .aa-product-catg-content .aa-product-catg-body .aa-product-catg li{
+		width: 40%;
+	}
+	.english-dropdown{
+		margin-left: -34px;
+	}
+	.input-icon input{
+		width: 60%!important;
+	}
+	.right-side{
+		width: 59%;
+	}
+}
+@media screen and (max-width: 425px){
+	.number{
+		display: none;
+	}
+	.wishlist{
+		display: none;
+	}
+	.mycart{
+		display: none;
+	}
+	.checkout{
+		display: none;
+	}
+	.myaccount{
+		border-left: 1px solid #888;
+	}
+	.logo{
+		display: flex;
+		justify-content: center;
+	}
+	.search-box{
+		display: flex;
+		justify-content: center;
+		padding-top: 30px;
+	}
+	.top-basket{
+		display: flex;
+		justify-content: center;
+		padding-top: 30px;
+	}
+	.english-dropdown{
+		margin-left: 0;
+	}
+	.USD-dropdown{
+		margin-left: 0;
+	}
+	.p-abslute{
+		top: 170%;
+	}
+	.lorem-text{
+		width: 80%;
+		text-align: center;
+		margin: 0 auto;
+	}
+	.shiping-content{
+		margin: 0 auto;
+	}
+	.shiping-content h4{
+		font-size: 20px;
+	}
+	.input-icon input{
+		width: 79%!important;
+	}
+	#aa-product-category .aa-product-catg-content .aa-product-catg-body .aa-product-catg li{
+		width: 100%;
+	}
+	.exclusive h1{
+		font-size: 20px;
+		margin-left: 2px;
+	}
+	.cars{
+		font-size: 10px;
+	}
+	.ph-number{
+		display: none;
+	}
+}
+@media screen and (max-width: 375px){
+	#aa-subscribe .aa-subscribe-area h3{
+		font-size: 20px;
+	}
+	.aa-footer-payment span{
+		font-size: 15px;
+		padding-top: 5px;
+	}
+	.input-icon input{
+		width: 79%!important;
+	}
+	#aa-product-category .aa-product-catg-content .aa-product-catg-body .aa-product-catg li{
+		width: 100%;
+	}
+	.right-side{
+		width: 56%;
+	}
+}
+@media screen and (max-width: 320px){
+	.english-dropdown{
+		margin-left: -13px;
+	}
+	.myaccount a{
+		font-size: 14px;
+	}
+	.jeans{
+		width: 300px;
+	}
+	.save{
+		width: 200px;
+	}
+	.bg-white{
+		width: 200px;
+	}
+	.exclusive h1{
+		font-size: 20px;
+		margin-left: 0;
+	}
+	.aa-footer-bottom-area p{
+		font-size: 13px;
+	}
+	.aa-footer-payment span{
+		padding-top: 8px;
+	}
+	.input-icon input{
+		width: 79%!important;
+	}
+	#aa-product-category .aa-product-catg-content .aa-product-catg-body .aa-product-catg li{
+		width: 100%;
+	}
+	.cars{
+		margin-right: 0px;
+	}
+	.right-side{
+		width: 52%;
+	}
+	.login{
+		border-right: none!important;
+	}
+}
